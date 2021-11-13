@@ -1,0 +1,6 @@
+Credentials cache: API:7060AEDB-B323-4493-BFBE-615C083DBA3C
+        Principal: rouahbi@42MULHOUSE.FR
+
+  Issued                Expires               Principal
+Nov  9 13:03:35 2021  Nov  9 23:03:35 2021  krbtgt/42MULHOUSE.FR@42MULHOUSE.FR
+Nov  9 13:03:36 2021  Nov  9 23:03:35 2021  HTTP/student-storage.42mulhouse.fr@42MULHOUSE.FR
